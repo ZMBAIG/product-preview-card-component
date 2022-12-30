@@ -51,6 +51,12 @@ img {
   display: flex;
   max-width: 280px;
   border-radius: 10px 0 0 10px;
+  opacity: 0.5;
+  /* position: relative; */
+}
+img:hover {
+  opacity: 1;
+  cursor: pointer;
 }
 .right-col {
   padding: 30px;
