@@ -32,13 +32,13 @@ body {
   margin: auto;
 }
 
-h2 {
+h1 {
   text-transform: uppercase;
   font-family: Montserrat;
   font-weight: 500;
   letter-spacing: 4px;
 }
-h1 {
+h2 {
   padding: 25px 0;
   font-weight: 700;
 }
